@@ -1,7 +1,7 @@
 # TownSquare
 
 ## Live Site: 
-  - town-square.herokuapp.com
+### town-square.herokuapp.com
 ACCOUNT CREATION
 
  - Finish user auth from end to end

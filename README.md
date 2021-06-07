@@ -1,5 +1,5 @@
 # TownSquare
-
+#### Please check out the wiki for details
 ## Live Site: 
 ### town-square.herokuapp.com
 ACCOUNT CREATION

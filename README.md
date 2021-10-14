@@ -1,7 +1,6 @@
 # TownSquare
 #### TownSquare, a StackOverflow clone, is a question and answer application that allows users to publicly share ideas and questions about restaurants, activities, and just about anything else happening in their town!
 ## Live Site: [TownSquare](http://town-square.herokuapp.com)
-### town-square.herokuapp.com
 ACCOUNT CREATION
 
  - Finish user auth from end to end

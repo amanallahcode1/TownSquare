@@ -19,3 +19,4 @@ POSTING ANSWERS
  - Redirect user to view that Question
 
 SEARCHING FOR QUESTIONS
+ - Input a question in search field and can query for ones that share similar words
